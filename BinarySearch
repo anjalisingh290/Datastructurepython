@@ -24,3 +24,8 @@ if __name__ == '__main__' :
 
     index = binary_search(numbers_list , number_to_find)
     print(f"Number found at index { index+1 } using binary search")
+    
+    
+    
+    
+    
