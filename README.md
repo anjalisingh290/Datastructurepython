@@ -1,0 +1,3 @@
+# Datastructurepython
+
+BINARY SEARCH
